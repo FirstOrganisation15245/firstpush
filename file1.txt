@@ -1,2 +1,3 @@
 this is file 1
 made a change in feature B
+made a change in file 1
